@@ -1,0 +1,59 @@
+body {
+background-color: aqua;
+font-size: 45px;
+}
+
+h1 {
+text-align: center;
+}
+
+footer {
+text-align: center;
+}
+
+nav {
+font-size: 40px;
+text-align: center;		
+}
+
+p {
+text-align: center;	
+}
+
+.d {
+font-size: 20px;	
+}
+
+.thankyou {
+text-align: left;
+margin-top: -20px;	
+}
+
+.thank_you {
+font-size: 185px;	
+}
+
+.form_procses {
+font-size: 30px;	
+}
+
+table {
+margin-left: auto;
+margin-right: auto;
+}
+
+.form_procses {
+text-align: center;	
+}
+
+.cs {
+text-align: center;	
+}
+
+.c {
+text-align: right;
+}
+
+.email {
+text-align: center;	
+}

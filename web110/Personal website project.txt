@@ -1,0 +1,10 @@
+<!DOCTYPE HTML>
+<HTML lang="en">
+<head>
+  <title>The history of Smartphones</title>
+</head>
+<header>
+  <h1>The history of smartphones</h1>
+  </header>
+ <body>
+ <p>

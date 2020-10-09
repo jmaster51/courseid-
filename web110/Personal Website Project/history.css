@@ -1,0 +1,69 @@
+.iphone1 {
+margin-bottom: 210px;
+margin-top: 10px;
+text-align: center;
+}
+.iphone {
+text-align: center;
+font-size: 35px;
+}
+
+figcaption {
+text-align: center;	
+}
+
+.samsung {
+text-align: center;
+font-size: 35px;
+}
+
+.samsung1 {
+text-align: center;
+}
+
+p {
+font-size: 45px;	
+}
+
+h1 {
+font-size: 75px;
+text-align: center;	
+}
+
+body {
+background-color: silver;
+color: black;	
+}
+
+nav {
+font-size: 40px;
+text-align: center;	
+}
+
+.d {
+text-align: center;	
+font-size: 25px;
+}
+
+footer {
+text-align: center;	
+}
+
+b {
+text-align: center;	
+}
+
+div {
+text-align: center;
+margin-left: auto;
+margin-right: auto;	
+}
+
+table {
+margin-left: auto;
+margin-right: auto;	
+}
+
+.c {
+text-align: center;	
+}

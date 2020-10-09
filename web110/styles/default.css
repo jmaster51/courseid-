@@ -1,0 +1,55 @@
+
+body {
+ margin: 100px;
+ font-family: Bahnschrift;
+ color: white;
+ background-color: saddlebrown;
+ font-size: 230%;
+ text-align: center;
+ margin-bottom: 50px;
+}
+
+div {
+ margin-top: 20px;
+}
+	/* unvisited link */
+a:link {
+ color: white;
+}
+
+/* visited link */
+a:visited {
+ color: blue;
+}
+
+/* mouse over link */
+a:hover {
+ color: green;
+}
+
+/* selected link */
+a:active {
+ color: turquoise;
+}
+
+div2 {
+ text-align: left;
+}
+
+h1 {
+ text-align: center;
+}
+
+#Christmas {
+ text-align: center;
+ font-style: italic;
+ color: mediumslateblue;
+}
+
+h2 {
+ font-size: 38px;	
+}
+
+.workflow {
+font-size: 20px;	
+}
