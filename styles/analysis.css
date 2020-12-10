@@ -1,14 +1,16 @@
 body {
 background-color: darkviolet;
 color: white;
+font-family: monospace;
 }
+
 h1 {
 text-align: center;
 font-size: 95px;	
 }
 
 main {
-font-size: 45px;	
+font-size: 33px;	
 }
 
 .d {
@@ -17,4 +19,9 @@ text-align: center;
 
 footer {
 text-align: center;	
+}
+
+h2 {
+font-size: 45px;
+font-weight: bold;	
 }

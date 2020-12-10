@@ -1,42 +1,30 @@
 
 body {
- margin: 100px;
- font-family: Bahnschrift;
+ margin-left: 100px;
+ margin-right: 100px;
+ font-family: monospace;
  color: white;
  background-color: saddlebrown;
- font-size: 230%;
- text-align: center;
- margin-bottom: 50px;
+ font-size: 175%;
 }
-
-div {
- margin-top: 20px;
-}
-	/* unvisited link */
+	
 a:link {
  color: white;
 }
 
-/* visited link */
 a:visited {
- color: blue;
+ color: white;
 }
 
-/* mouse over link */
 a:hover {
- color: green;
+ color: gray;
 }
 
-/* selected link */
 a:active {
  color: turquoise;
 }
 
-div2 {
- text-align: left;
-}
-
-h1 {
+h1,h2 {
  text-align: center;
 }
 
@@ -46,10 +34,32 @@ h1 {
  color: mediumslateblue;
 }
 
-h2 {
- font-size: 38px;	
+nav {
+ text-align: center;	
 }
 
-.workflow {
-font-size: 20px;	
+figure {
+ text-align: center;
+ margin-top: -20px;
+ margin-bottom: -20px;
 }
+
+figcaption {
+ text-align: center;
+ font-size: 20px;	
+}
+
+nav {
+ text-align: center;
+ font-size: 28px;	
+}
+
+footer {
+ text-align: center;
+ margin-top: 20px;
+ font-size: 20px; 
+}
+
+.d { 
+ font-size: 18px;
+} 
